@@ -64,8 +64,11 @@ It demonstrates a complete **data science workflow**: data cleaning, preprocessi
 - Use customer segmentation for personalized offers
 
 ## 📂 Project Files
-- `Telco Customer Churn-LogisticRegression.ipynb` — main notebook  
+- `Telco Customer Churn-LogisticRegression.ipynb` — main notebook
 - Visualizations and output tables included in the notebook
+
+### 📘 Notebook  
+[Click here to view the Colab Notebook](notebooks/Telco_Customer_Churn_Logistic_and_RF.ipynb)
 
 
 
